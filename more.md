@@ -1,7 +1,7 @@
 
 Dedicated server with BGP?  networking, https//www.reddit.com/r/networking/comments/44644l/dedicated_server_with_bgp
 
-NewSoftSerial, <http//arduiniana.org/libraries/newsoftserial>
+NewSoftSerial http//arduiniana.org/libraries/newsoftserial
 
 Getting Bluetooth modules talking to each other, http//blog.zakkemble.co.uk/getting-bluetooth-modules-talking-to-each-other
 
