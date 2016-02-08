@@ -62,8 +62,6 @@ https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
 I want to be a Devops! – brassy.net
 http://brassy.net/articles/getting-in-to-devops/
 
-Romulus and Remus: a History of a Nation in Coins
-https://www.youtube.com/watch?v=CZtNAW-rffc
 
 Romulus and Remus: a History of a Nation in Coins
 http://www.youtube.com/watch?v=CZtNAW-rffc
@@ -73,8 +71,6 @@ http://www.youtube.com/watch?v=-C4XsA5ovbg
 
 Secret City - A film about the City of London, the Corporation that runs it.
 http://www.youtube.com/watch?v=-C4XsA5ovbg
-
-Secret City - A film about the City of London, the Corporation that runs it.
 
 
 Introduction to Coq by Kimball Germane
