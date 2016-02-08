@@ -206,10 +206,8 @@ http://nakamotoinstitute.org/shelling-out/
 Creating a bootable USB • /r/debian
 http://www.reddit.com/r/debian/comments/298oqn/creating_a_bootable_usb/
 
-#4 Where can blockchain technology take us?
-http://www.youtube.com/watch?v=wczMKASQk6s
 
-#4 Where can blockchain technology take us?
+Where can blockchain technology take us?
 https://www.youtube.com/watch?v=wczMKASQk6s&amp;list=PLjgfpSQFJTLqbgHm8mkgPdD-ma7t0bRhK&amp;t=226
 
 Interesting Wikipedia article on E-gold - monetary turnover (velocity) of about 28 times per year (for comparison, annual velocity of USD is about 6 for M1 [3] and less than 1.6 for M2
