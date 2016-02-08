@@ -1,6 +1,9 @@
 
 #### Networking
 
+PPTP vs L2TP vs OpenVPN vs SSTP vs IKEv2
+https://www.bestvpn.com/blog/4147/pptp-vs-l2tp-vs-openvpn-vs-sstp-vs-ikev2/
+
 Dedicated server with BGP?
 https://www.reddit.com/r/networking/comments/44644l/dedicated_server_with_bgp/
 
