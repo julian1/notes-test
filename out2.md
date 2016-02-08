@@ -7,12 +7,14 @@ http://arduiniana.org/libraries/newsoftserial/
 Getting Bluetooth modules talking to each other
 http://blog.zakkemble.co.uk/getting-bluetooth-modules-talking-to-each-other/
 
-https://www.reddit.com/r/ethereum/
 A way to programatically send value through space"
+https://www.reddit.com/r/ethereum/
 
 valeo - Wiktionary
 https://en.wiktionary.org/wiki/valeo#Latin
 
+
+Wizard Wars Scott Adams blog
 http://blog.dilbert.com/post/126916006856/wizard-wars
 
 Today, IP addresses are associated with a subnet mask. This was not required in a classful network because the mask was implicitly derived from the IP address itself.
