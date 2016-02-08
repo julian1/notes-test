@@ -25,7 +25,10 @@ https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
 
 #### Ethereum
 
-A way to programatically send value through space"
+maker
+https://www.reddit.com/r/CryptoCurrency/comments/44g8hf/are_there_any_stable_cryptocoins_what_concepts/czq4y0h?context=3
+
+A way to programatically send value and structure incentive through space"
 https://www.reddit.com/r/ethereum/
 
 The Ether Review #1: Joseph Lubin
