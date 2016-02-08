@@ -51,3 +51,55 @@ Secret City - A film about the City of London, the Corporation that runs it., ht
 links, https//www.reddit.com/r/french_commander/comments/3ppmhj/links
 
 Debian targeted hardware thttps://wiki.debian.org/FreedomBox/TargetedHardware
+
+
+
+Introduction to Coq by Kimball Germane http://www.youtube.com/watch?v=ngM2N98ppQE
+
+Joseph Lubin, https://letstalkbitcoin.com/blog/post/the-ether-review-1-joseph-lubin
+
+The guide | Great Wall of Numbers, http://www.ofnumbers.com/the-guide/
+
+Introduction to Codius (Nov 2014) http://www.youtube.com/watch?v=eIjyl_rTZ5U
+
+tls notary, https://tlsnotary.org/TLSNotary.pdf
+
+A Brief Introduction to Smart Contracts, http://www.youtube.com/watch?v=3bY66Zgr8Cs
+
+Petrodollar - Wikipedia, the free encyclopedia, https://en.wikipedia.org/wiki/Petrodollar, 
+
+https://www.reddit.com/r/ethereum/comments/3md9n7/software_defined_networking_on_blockchains/
+ethereum
+
+Let's Talk Bitcoin! #246 Smart Contracts with Nick Szabo, https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-246-smart-contracts-with-nick-szabo
+
+tendermint, http://tendermint.com/docs/tendermint.pdf
+
+Q&amp;A with Ethereum on the Future of Contracting, http://prismlegal.com/contracts-as-code-qa-with-ethereum-on-the-future-of-contracting/
+
+vbuterin comments on The first ever Ethereum Contract in the Wild !, https://www.reddit.com/r/ethereum/comments/3lt8mb/the_first_ever_ethereum_contract_in_the_wild/cv99l9a
+
+What Criminals May Gain from the Next Evolution of Bitcoin | MIT Technology Review, http://www.technologyreview.com/news/540151/bitcoins-dark-side-could-get-darker/
+
+
+Best practices for building large React applications, http://blog.siftscience.com/blog/2015/best-practices-for-building-large-react-applications
+
+Tricks and Things to Know in OCaml, http://blog.eatonphil.com/2015/06/10/tricks-and-things-to-know-in-ocaml/
+
+
+Uber, the largest taxi company, owns no vehicles. Facebook, the most popular media owner, creates no content. Alibaba, the most valuable retailer, has no inventory. And Airbnb, the largest accommodation provider, owns no real estate. Rad_Decentralization, https://www.reddit.com/r/Rad_Decentralization/comments/36xuyb/uber_the_largest_taxi_company_owns_no_vehicles/
+
+palatine - from palate - roof of mouth, http://en.wiktionary.org/wiki/palatine
+
+http://www.sciencealert.com/watch-this-map-shows-how-indo-european-languages-may-have-evolved, This map shows how Indo-European languages may have evolved
+
+Ara Pacis - Wikipedia, the free encyclopedia, http://en.wikipedia.org/wiki/Ara_Pacis
+
+What happened during the French Revolution is that by some trick of the hand, one priest cast (the philosophes) managed to overthrow the other (the priests).
+https://www.reddit.com/r/DarkEnlightenment/comments/374uf5/what_lead_to_this/crjqyj2
+
+a turing-complete coin distributed as per bitcoin's blockchain https://bitcointalk.org/index.php?topic=563925.0
+
+bootstrap an altcoin with a btc-blockchain-based initial distribution https://bitcointalk.org/index.php?topic=563972.0
+
+Optimal Coin Distribution and the Social Role of Investors https://bitcointalk.org/index.php?topic=678866.5
