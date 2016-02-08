@@ -9,6 +9,11 @@ here
 
 [more](more.md)
 
+```
+scrape
+https://www.reddit.com/r/fr/.json?count=25&after=t3_3ppmhj
+cat p | json_pp  | egrep '\"url\"|\"title' > out
+```
 
 ```
 my code
