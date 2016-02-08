@@ -49,3 +49,5 @@ Kristian Kristiansen, The Bronze Age expansion of Indo-European languages, http:
 Secret City - A film about the City of London, the Corporation that runs it., http://www.youtube.com/watch?v=eHnwtkfX2k4
 
 links, https//www.reddit.com/r/french_commander/comments/3ppmhj/links
+
+Debian targeted hardware thttps://wiki.debian.org/FreedomBox/TargetedHardware
