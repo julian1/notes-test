@@ -17,6 +17,7 @@ function programming in lua examples https://en.wikibooks.org/wiki/Lua_Functiona
 
 more functional http://lua-users.org/wiki/FunctionalLibrary
 
+wikipedia lua https://en.wikipedia.org/wiki/Lua_%28programming_language%29
 
 #### advantages
   - coroutines
