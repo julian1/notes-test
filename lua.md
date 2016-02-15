@@ -1,4 +1,12 @@
 
+#### Issues
+
+how to do communication between coroutines?
+
+  - shared state, with flags
+  - messages on a stack, that the coroutines can test and consume?
+
+
 #### refs
 
 lua in 15 minutes intro http://tylerneylon.com/a/learn-lua/
