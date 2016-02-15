@@ -29,6 +29,7 @@ more functional http://lua-users.org/wiki/FunctionalLibrary
   - no standard library
   - off-by-one indexing
   - no debugger
+  - limited unicode support  http://stackoverflow.com/questions/2497800/does-lua-support-unicode
 
 used
   openwrt?
