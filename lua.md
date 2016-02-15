@@ -1,4 +1,7 @@
 
+
+https://spin.atomicobject.com/2013/07/01/lua-coroutines/
+
 #### Issues
 
 how to do communication between coroutines?
@@ -24,7 +27,8 @@ wikipedia lua https://en.wikipedia.org/wiki/Lua_%28programming_language%29
   - easy integration with c
   - first- class functions
   - fast
-  - designed for embedded
+  - designed for embedded - small code and mem footprint
+  - low dependencies
 
 #### but
   - no standard library
