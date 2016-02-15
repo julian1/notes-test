@@ -24,7 +24,8 @@ wikipedia lua https://en.wikipedia.org/wiki/Lua_%28programming_language%29
   - easy integration with c
   - first- class functions
   - fast
-  - designed for embedded
+  - designed for embedded - small code and mem footprint
+  - low dependencies
 
 #### but
   - no standard library
