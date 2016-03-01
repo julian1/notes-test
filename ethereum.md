@@ -16,8 +16,11 @@ https://github.com/ethereum/EIPs/issues/
 Official blog
 https://blog.ethereum.org/
 
-Developer Conferenece 1, presentations
+Developer Conferenece 1 (DevCon1), presentations
 https://www.youtube.com/playlist?list=PLJqWcTqh_zKHQUFX4IaVjWjfT2tbS4NVk
+
+Devcon1 Program
+https://devcon.ethereum.org/#program
 
 Homestead
 https://blog.ethereum.org/2016/02/29/homestead-release/
