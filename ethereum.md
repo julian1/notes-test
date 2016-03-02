@@ -25,6 +25,7 @@ https://devcon.ethereum.org/#program
 Homestead
 https://blog.ethereum.org/2016/02/29/homestead-release/
 
+
 #### Context
 
 Shelling Out: The Origins of Money
@@ -48,6 +49,15 @@ https://letstalkbitcoin.com/blog/post/the-ether-review-1-joseph-lubin
 
 Let's Talk Bitcoin! #246 Smart Contracts with Nick Szabo
 https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-246-smart-contracts-with-nick-szabo
+
+
+#### Developer Instant Messaging Resources
+
+https://gitter.im/ethereum/mist
+
+https://gitter.im/ethereum/solidity
+
+https://makerdao.slack.com/messages/general/
 
 
 #### Proofs/ Types
