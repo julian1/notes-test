@@ -1,9 +1,9 @@
 
-#### This is a test
+#### test
 
-http://www.cnn.com
+[migrated](migrated.md)
 
-here
+[ethereum](ethereum.md)
 
 [my molecule](hhh.md)
 
@@ -15,9 +15,6 @@ https://www.reddit.com/r/fr/.json?count=25&after=t3_3ppmhj
 cat p | json_pp  | egrep '\"url\"|\"title' > out
 ```
 
-```
-my code
-```
 
 Write Your Compiler by Proving It Correct
 http://liamoc.net/posts/2015-08-23-verified-compiler.html
@@ -46,60 +43,11 @@ http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html
 basic predicate calculus https://coq.inria.fr/tutorial/1-basic-predicate-calculus
 
 
-## Ethereum
+## Lua
 
-theory of corporation at 34.10 - and disintermediary cost of MC  - https://soundcloud.com/arthurfalls/the-ether-review-1-joseph
+Underscore for Lua
+https://mirven.github.io/underscore.lua/
 
-etherscan - decoded contracts etc http://etherscan.io/address/0xfc67bd301a4c698b461e5e9f26eab60d230b77a4
-
-the state of the apps http://dapps.ethercasts.com/
-
-javascript api https://github.com/ethereum/wiki/wiki/JavaScript-API
-
-evm interpreter in coq https://gist.github.com/pirapira/0946d151e038393078c3
-
-evm interepreter in coq - reddit post https://www.reddit.com/r/ethereum/comments/3p9xmm/an_analysis_of_an_ethereum_contract/
-
-why3 proofs - reddit post https://www.reddit.com/r/ethereum/comments/3pd5yt/solidity_library_slowly_growing/cw67yiu
-
-ethereumjs-vm - https://github.com/ethereum/ethereumjs-vm/
-
-pki, signature verification, bitcoin sigs https://forum.ethereum.org/discussion/2166/signature-generation-and-verification-in-solidity
-
-npm - elliptic - https://libraries.io/npm/elliptic/5.0.0
-
-ring signature
-https://www.reddit.com/r/ethereum/comments/3tappe/early_alpha_monerolike_linkable_ring_signatures/
-
-https://github.com/ethereum/serpent/blob/develop/examples/ecc/ringsig.se
-
-
-# Ethereum dev
-
-
-Contracts and transactions https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions
-
-Development tutorial https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
-
-Whitepaper https://github.com/ethereum/wiki/wiki/White-Paper
-
-Yellowpaper http://gavwood.com/Paper.pdf
-
-# EIP
-
-https://github.com/ethereum/EIPs/issues/
-
-
-## Ethereum projects
-
-
-btcrelay  btc spv checking https://github.com/ethereum/btcrelay
-
-http://ujomusic.com/
-
-http://groupgnosis.com/dapp/#/markets
-
-rootstock https://www.reddit.com/r/Bitcoin/comments/3t02x7/rootstock_merges_bitcoin_and_ethereum_to_help_the/
 
 ## Javascript
 
