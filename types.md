@@ -1,4 +1,8 @@
 
+F-star programming
+https://news.ycombinator.com/item?id=10949288
+
+
 How to implement dependent type theory I
 http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/
 
@@ -6,8 +10,6 @@ Formal Verification for Solidity Contracts
 https://forum.ethereum.org/discussion/3779/formal-verification-for-solidity-contracts
 
 
-<<<<<<< HEAD
-=======
 Type-Driven Development with Idris (not formal verification)
 https://www.manning.com/books/type-driven-development-with-idris
 
@@ -47,4 +49,3 @@ Intuitionistic type theory (or Martin-Löf type theory)
 https://en.wikipedia.org/wiki/Intuitionistic_type_theory
 
 
->>>>>>> 76fc8003dbdc4f2fdafa89254568cd7d99d42c77
