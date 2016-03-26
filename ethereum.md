@@ -79,6 +79,21 @@ why3 proofs - reddit post
 https://www.reddit.com/r/ethereum/comments/3pd5yt/solidity_library_slowly_growing/cw67yiu
 
 
+#### Ethereum dev
+
+evm middle ground chiseth
+https://solidity.readthedocs.org/en/latest/introduction-to-smart-contracts.html#index-6
+
+Contracts and transactions
+https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions
+
+Development tutorial
+https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
+
+Advanced Solidity programming
+https://www.reddit.com/r/ethereum/comments/4a36un/tutorials_on_advanced_solidity_evm/
+
+
 #### Technical
 
 Tendermint:  Consensus without Mining
@@ -150,14 +165,6 @@ https://www.reddit.com/r/Bitcoin/comments/3t02x7/rootstock_merges_bitcoin_and_et
 ethereum software defined networking
 https://www.reddit.com/r/ethereum/comments/3md9n7/software_defined_networking_on_blockchains/
 
-
-#### Ethereum dev
-
-Contracts and transactions
-https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions
-
-Development tutorial
-https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
 
 
 #### Context

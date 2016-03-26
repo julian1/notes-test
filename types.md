@@ -3,6 +3,10 @@ F-star programming
 https://news.ycombinator.com/item?id=10949288
 
 
+Formal verification of legacy code
+Not really Type related,
+http://blog.adacore.com/formal-verification-of-legacy-code
+
 How to implement dependent type theory I
 http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/
 
