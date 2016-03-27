@@ -1,4 +1,16 @@
 
+
+OPLSS10: Xavier Leroy: Proving a Compiler 1/5 Videos
+https://vimeo.com/18807059
+
+CakeML - A verified implementation of a significant subset of Standard ML in the HOL4
+theorem prover 
+  - https://github.com/CakeML/cakeml
+  - https://news.ycombinator.com/item?id=11367438
+
+Haskell for equational reasoning
+http://www.haskellforall.com/2013/12/equational-reasoning.html
+
 F-star programming
 https://news.ycombinator.com/item?id=10949288
 

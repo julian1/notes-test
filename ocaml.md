@@ -8,6 +8,11 @@ http://stackoverflow.com/questions/2638664/is-there-any-free-ocaml-to-c-translat
 
 #### Ocaml for language implementation,
 
+
+Caradoc - a PDF parser and validator
+
+  - https://github.com/ANSSI-FR/caradoc
+
 Rust compiler
 
   - https://github.com/rust-lang/rust
@@ -17,9 +22,10 @@ WebAssembly reference interpreter
 
   - https://www.reddit.com/r/programming/comments/4amw1e/til_webassemblys_reference_interpreter_is_written/
 
-Flow (Facebook) used to find problems in Javascript
+Flow (Facebook) used to find problems in Javascript - A static type checker for JavaScript
 
   - http://flowtype.org/
+
 
 Haxe compiler
 
