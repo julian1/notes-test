@@ -1,7 +1,8 @@
 
+### Unclassified
 
 
-#### Haskell Coq, Ocaml
+#### Haskell agda, irids
 
 Simon Peyton Jones: book
 http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/
@@ -12,11 +13,6 @@ https://www.reddit.com/r/haskell/comments/3re0kp/jpmorgan_haskell_team_is_hiring
 possible to use monadic chaining, seq, par etc, for ansible/chef like provisioning?
 https://www.reddit.com/r/french_commander/comments/3xigvd/possible_to_use_monadic_chaining_seq_par_etc_for/
 
-Introduction to Coq by Kimball Germane
-http://www.youtube.com/watch?v=ngM2N98ppQE
-
-Tricks and Things to Know in OCaml
-http://blog.eatonphil.com/2015/06/10/tricks-and-things-to-know-in-ocaml/
 
 Learn You An Agda - Hello, Peano
 http://learnyouanagda.liamoc.net/pages/peano.html
@@ -88,7 +84,7 @@ http://upload.wikimedia.org/wikipedia/commons/e/eb/Statue-Augustus.jpg
 
 
 
-#### IEL
+#### Indo European Lanaguage/Religion
 
 Kristian Kristiansen, The Bronze Age expansion of Indo-European languages
 http://www.youtube.com/watch?v=-C4XsA5ovbg
@@ -108,7 +104,6 @@ http://www.youtube.com/watch?v=-C4XsA5ovbg
 
 Petrodollar - Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Petrodollar
-
 
 The guide | Great Wall of Numbers
 http://www.ofnumbers.com/the-guide/

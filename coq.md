@@ -15,7 +15,7 @@ xmonad in Coq http://www.staff.science.uu.nl/~swier004/Publications/XmonadInCoq.
 
 Tutorial - hello world in Coq http://coq-blog.clarus.me/tutorial-a-hello-world-in-coq.html
 
-software foundations - Pierce videos - 
+software foundations - Pierce videos -
 http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html
 
 basic predicate calculus https://coq.inria.fr/tutorial/1-basic-predicate-calculus
