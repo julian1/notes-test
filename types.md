@@ -1,4 +1,6 @@
 
+Coq tactics engine rewrite
+http://coqhott.gforge.inria.fr/blog/coq-tactic-engine/
 
 OPLSS10: Xavier Leroy: Proving a Compiler 1/5 Videos
 https://vimeo.com/18807059
