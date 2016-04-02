@@ -124,6 +124,9 @@ etherex
   - Roadmap/ crowdfund
     - https://medium.com/@Digix/current-roadmap-for-digix-a7d12ac43fb3#.gaf3gx9ud
 
+  - Great discussion arhag, vbuterin, rune
+    https://www.reddit.com/r/ethereum/comments/2xcd0k/the_etherex_foundation/
+
 digixdao
 https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
 
