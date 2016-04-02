@@ -44,7 +44,6 @@ http://www.youtube.com/watch?v=3bY66Zgr8Cs
 money is a formal token of delayed reciprocal altruism
 http://nakamotoinstitute.org/reciprocal-altruism-in-the-theory-of-money/
 
-
 Blockchains, databases, reification: are bottom up standards possible?
 http://www.youtube.com/watch?v=AbacROAa4xY
 
@@ -65,33 +64,6 @@ https://gitter.im/ethereum/mist
 https://gitter.im/ethereum/solidity
 
 https://makerdao.slack.com/messages/general/
-
-
-#### Proofs/ Types
-
-evm interpreter in coq
-https://gist.github.com/pirapira/0946d151e038393078c3
-
-evm interepreter in coq - reddit post
-https://www.reddit.com/r/ethereum/comments/3p9xmm/an_analysis_of_an_ethereum_contract/
-
-why3 proofs - reddit post
-https://www.reddit.com/r/ethereum/comments/3pd5yt/solidity_library_slowly_growing/cw67yiu
-
-
-#### Ethereum dev
-
-evm middle ground chiseth
-https://solidity.readthedocs.org/en/latest/introduction-to-smart-contracts.html#index-6
-
-Contracts and transactions
-https://github.com/ethereum/go-ethereum/wiki/Contracts-and-Transactions
-
-Development tutorial
-https://github.com/ethereum/wiki/wiki/Ethereum-Development-Tutorial
-
-Advanced Solidity programming
-https://www.reddit.com/r/ethereum/comments/4a36un/tutorials_on_advanced_solidity_evm/
 
 
 #### Technical
