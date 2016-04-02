@@ -26,7 +26,7 @@ Homestead
 https://blog.ethereum.org/2016/02/29/homestead-release/
 
 
-#### Simplified Explanation
+#### Simplified
 
 V. Buterin https://www.reddit.com/r/ethereum/comments/48qx9h/so_fill_me_in_here/d0lsziz
 
@@ -104,6 +104,9 @@ http://www.erights.org/
 CIYAM AT - Documentation Index
 http://ciyam.org/at/
 
+Whitepaper Urbit: an operating function
+http://urbit.org/docs/theory/whitepaper
+
 
 
 #### Projects Overview
@@ -112,6 +115,9 @@ the state of the apps
 http://dapps.ethercasts.com/
 
 #### Projects
+
+digixdao
+https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
 
 maker
 https://www.reddit.com/r/CryptoCurrency/comments/44g8hf/are_there_any_stable_cryptocoins_what_concepts/czq4y0h?context=3

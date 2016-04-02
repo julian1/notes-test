@@ -2,6 +2,9 @@
 
 ### coq
 
+Coq tactics engine rewrite
+http://coqhott.gforge.inria.fr/blog/coq-tactic-engine/
+
 software foundations in coq - B. Pierce - https://www.youtube.com/watch?v=KKrD4JcfW90
 
 Introduction to Coq by Kimball Germane  https://www.youtube.com/watch?v=ngM2N98ppQE
