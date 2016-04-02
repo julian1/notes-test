@@ -116,6 +116,12 @@ http://dapps.ethercasts.com/
 
 #### Projects
 
+etherex
+  - https://github.com/etherex/etherex
+  - http://etherex.github.io/etherex/#/tools
+  - Whitepaper
+    - https://github.com/etherex/docs/blob/master/paper.md
+
 digixdao
 https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
 
