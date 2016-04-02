@@ -1,4 +1,13 @@
 
+#### dlambda and backend.
+
+coq -> ocaml -> dlambda -> evm code!
+  or
+coq -> lisp -> (lll variant) evm 
+
+
+https://realworldocaml.org/v1/en/html/the-compiler-backend-byte-code-and-native-code.html
+
 
 #### Dump ocaml as C code, to be manually linked with runtime
 
@@ -9,6 +18,9 @@ http://blog.eatonphil.com/2015/06/10/tricks-and-things-to-know-in-ocaml/
 
 
 #### Ocaml used for language implementation,
+
+Programming language zoo
+  - http://andrej.com/plzoo/
 
 Caradoc - a PDF parser and validator
   - https://github.com/ANSSI-FR/caradoc

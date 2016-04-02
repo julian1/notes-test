@@ -2,6 +2,9 @@
 
 #### Solidity and Ethereum dev
 
+Visual studio integration - first contract
+https://medium.com/@ConsenSys/solidity-integration-with-visual-studio-8bdab2ff8a74
+
 Smart Contract Production
 https://github.com/smartcontractproduction
 

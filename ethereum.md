@@ -128,7 +128,9 @@ etherex
     https://www.reddit.com/r/ethereum/comments/2xcd0k/the_etherex_foundation/
 
 digixdao
-https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
+  - https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
+  - overservations 
+    - https://www.reddit.com/r/ethereum/comments/4cx8ra/ten_observations_on_the_digix_crowdsale/
 
 maker
 https://www.reddit.com/r/CryptoCurrency/comments/44g8hf/are_there_any_stable_cryptocoins_what_concepts/czq4y0h?context=3
