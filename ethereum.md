@@ -121,6 +121,8 @@ etherex
   - http://etherex.github.io/etherex/#/tools
   - Whitepaper
     - https://github.com/etherex/docs/blob/master/paper.md
+  - Roadmap/ crowdfund
+    - https://medium.com/@Digix/current-roadmap-for-digix-a7d12ac43fb3#.gaf3gx9ud
 
 digixdao
 https://www.reddit.com/r/ethtrader/comments/4cib6o/digixdao_crowdsale_is_live/
