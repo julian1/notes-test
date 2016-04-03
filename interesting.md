@@ -11,5 +11,9 @@
 - crowdsale app. raise in ethereum etc.
 
 
+- functional programming script - using fork() - so it effortlessly can work with  
+  unix other unix commands
+
+
 
 

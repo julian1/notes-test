@@ -39,3 +39,11 @@ Haxe compiler
   - https://en.wikipedia.org/wiki/Haxe
 
 
+
+#### Ocaml Virtual Machine/ Backend
+
+https://realworldocaml.org/v1/en/html/the-compiler-backend-byte-code-and-native-code.html
+
+http://cadmium.x9c.fr/distrib/caml-instructions.pdf
+
+

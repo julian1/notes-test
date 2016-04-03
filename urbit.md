@@ -2,14 +2,27 @@
 Whitepaper Urbit: an operating function
 http://urbit.org/docs/theory/whitepaper
 
-Urbit demo ~2013.9.23
+Video short intro - typed functional programmming, event sourcing  
+https://www.youtube.com/watch?v=6S8JFoT6BEM
+
+Urbit demo ~2013.9.23 - 10 minutes
 https://vimeo.com/75312418
 
-Code
+
+
+
+#### Code
 https://github.com/urbit/urbit
 
 I'm Curtis Yarvin, developer of Urbit. AMA.
 https://www.reddit.com/r/IAmA/comments/4bxf6f/im_curtis_yarvin_developer_of_urbit_ama/
 
-A personal cloud computer
+YC discussion - A personal cloud computer
 https://news.ycombinator.com/item?id=8578151
+
+#### Funding
+
+probably Peter Thiel
+https://en.wikipedia.org/wiki/Peter_Thiel
+
+
