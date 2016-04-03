@@ -1,11 +1,22 @@
 
+https://www.youtube.com/results?search_query=Robin+Milner+
+
+Gordon Plotkin - Robin Milner: A Craftsman of Tools for the Mind
+https://www.youtube.com/watch?v=Jg5VCLb2cMo
+
+ETE 2012 - Dr. Benjamin Pierce - Types a la Milner
+https://www.youtube.com/watch?v=carP8i6YSZs
+
+
+---
+
 Coq tactics engine rewrite
 http://coqhott.gforge.inria.fr/blog/coq-tactic-engine/
 
 OPLSS10: Xavier Leroy: Proving a Compiler 1/5 Videos
 https://vimeo.com/18807059
 
-CakeML - A verified implementation of a significant subset of Standard ML in the HOL4
+cAKEmL - A verified implementation of a significant subset of Standard ML in the HOL4
 theorem prover 
   - https://github.com/CakeML/cakeml
   - https://news.ycombinator.com/item?id=11367438

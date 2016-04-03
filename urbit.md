@@ -25,4 +25,6 @@ https://news.ycombinator.com/item?id=8578151
 probably Peter Thiel
 https://en.wikipedia.org/wiki/Peter_Thiel
 
+He’s invested in Yarvin’s current startup, Tlon. Thiel invested personally in Tlon co-founder John Burnham. I
+http://thebaffler.com/blog/mouthbreathing-machiavellis
 

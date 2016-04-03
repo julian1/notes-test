@@ -21,6 +21,10 @@ Advanced Solidity programming
 https://www.reddit.com/r/ethereum/comments/4a36un/tutorials_on_advanced_solidity_evm/
 
 
+#### stack exchange
+
+http://ethereum.stackexchange.com/
+
 #### Ethereum dev
 
 Yellowpaper
