@@ -52,8 +52,12 @@ Composing contracts https://falconair.github.io/2015/01/30/composingcontracts.ht
 Certified Symbolic Management of Financial Multi Party Contracts https://www.youtube.com/watch?v=cIYZJgoAZH4
 
 ## css
+React.js inline style best practices 
+http://stackoverflow.com/questions/26882177/react-js-inline-style-best-practices
 
-React.js inline style best practices http://stackoverflow.com/questions/26882177/react-js-inline-style-best-practices
+
+State of React and CSS
+https://voice.kadira.io/state-of-react-and-css-501d179443d3#.flo6283mp
 
 ---
 
