@@ -8,6 +8,9 @@ coq -> lisp -> (lll variant) evm
 
 https://realworldocaml.org/v1/en/html/the-compiler-backend-byte-code-and-native-code.html
 
+allocation mitigation,
+
+http://www.ocamlpro.com/2016/04/01/asm-ocaml/
 
 #### Dump ocaml as C code, to be manually linked with runtime
 
