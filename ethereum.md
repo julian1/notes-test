@@ -35,6 +35,9 @@ Rune https://www.reddit.com/r/ethereum/comments/43exre/what_are_the_advantages_o
 
 #### Context
 
+Smart Markets for Stablecoins
+http://cdetr.io/smart-markets/
+
 Shelling Out: The Origins of Money
 http://nakamotoinstitute.org/shelling-out/
 
