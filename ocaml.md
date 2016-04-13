@@ -50,3 +50,14 @@ https://realworldocaml.org/v1/en/html/the-compiler-backend-byte-code-and-native-
 http://cadmium.x9c.fr/distrib/caml-instructions.pdf
 
 
+
+#### 
+
+Ocaml and javascript
+
+another one - better than js_of_ocaml, since has clean javascript -> ocaml derived javascript interface 
+
+js_of_ocaml
+
+Bloomberg/bucklescript: A back end for the OCaml compiler which emits JavaScript (github.com)
+https://news.ycombinator.com/item?id=11477238

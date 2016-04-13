@@ -119,6 +119,9 @@ http://dapps.ethercasts.com/
 
 #### Projects
 
+2 Brooklyn Neighbors Just Traded Solar Energy via Ethereum
+https://www.reddit.com/r/ethereum/comments/4ellvi/2_brooklyn_neighbors_just_traded_solar_energy_via/
+
 etherex
   - https://github.com/etherex/etherex
   - http://etherex.github.io/etherex/#/tools

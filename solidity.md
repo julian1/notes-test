@@ -1,4 +1,8 @@
 
+#### Official Docs
+
+http://solidity.readthedocs.org/en/latest/
+
 
 #### Solidity and Ethereum dev
 

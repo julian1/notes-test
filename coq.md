@@ -27,7 +27,8 @@ http://coqhott.gforge.inria.fr/blog/coq-tactic-engine/
 Categories: An implementation of category theory in Coq
   - https://news.ycombinator.com/item?id=11475431
   - https://github.com/amintimany/Categories
-
+  - category theory introduction
+    - https://www.youtube.com/watch?v=BF6kHD1DAeU
 
 xmonad in Coq
 http://www.staff.science.uu.nl/~swier004/Publications/XmonadInCoq.pdf
