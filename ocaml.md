@@ -8,7 +8,7 @@ coq -> lisp -> (lll variant) evm
 
 https://realworldocaml.org/v1/en/html/the-compiler-backend-byte-code-and-native-code.html
 
-allocation mitigation,
+avoid and mitigate allocation, using csp etc.
 
 http://www.ocamlpro.com/2016/04/01/asm-ocaml/
 
