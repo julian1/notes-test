@@ -41,7 +41,8 @@ Flow (Facebook) used to find problems in Javascript - A static type checker for 
 Haxe compiler
   - https://en.wikipedia.org/wiki/Haxe
 
-
+Hindly Milner type inference example
+  - https://github.com/prakhar1989/type-inference#hindley-milner-type-inference
 
 #### Ocaml Virtual Machine/ Backend
 
