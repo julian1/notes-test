@@ -1,4 +1,8 @@
 
+Most of the contract sources   https://www.reddit.com/r/ethereum/comments/4e0mrk/mkr_is_now_liquid_on_mainnet_claiming_your_mkr/d1w38lk
+
+---
+
 ### Code
 
 https://www.reddit.com/r/ethereum/comments/4e0mrk/mkr_is_now_liquid_on_mainnet_claiming_your_mkr/d1w38lk
