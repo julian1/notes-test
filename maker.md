@@ -9,7 +9,9 @@ https://www.reddit.com/r/MakerDAO/comments/4caf6o/maker_deploy_attempt/
 ### Media
 
 Managing Contract System Complexity
-https://www.youtube.com/watch?v=gEV8LfFs8Io&feature=youtu.be
+https://www.youtube.com/watch?v=gEV8LfFs8Io
+
+&feature=youtu.be
 
 Now on Mainnet
 https://www.reddit.com/r/ethereum/comments/4e0mrk/mkr_is_now_liquid_on_mainnet_claiming_your_mkr/

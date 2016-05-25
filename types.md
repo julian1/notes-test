@@ -1,4 +1,9 @@
 
+Linear types and blockchain
+http://arxiv.org/ps/1506.01001v1
+
+
+
 https://www.youtube.com/results?search_query=Robin+Milner+
 
 Gordon Plotkin - Robin Milner: A Craftsman of Tools for the Mind
