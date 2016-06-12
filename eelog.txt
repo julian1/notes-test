@@ -1,0 +1,14 @@
+
+eevblog op-amp
+  https://www.youtube.com/watch?v=7FYHt5XviKc
+
+  - open gain multiplication is 100k to 1m. that's why op-amps are not used without negative feedback.
+  - eg. 1v on inverting, and 1.001 on input -> it will saturate on the output
+
+very good explanation of comparator and hysteresis - using a scope to show whats happening
+  http://www.analogzoo.com/2015/01/relaxation-oscillator-design/
+
+different comparator topologies
+  http://www.electronics-tutorials.ws/opamp/op-amp-comparator.html
+
+

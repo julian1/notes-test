@@ -1,0 +1,106 @@
+
+
+------------
+June 12
+
+TODO
+  - read rest of yellow paper.
+
+  The Book of Proof  (print / read)
+    -  http://www.people.vcu.edu/~rhammack/BookOfProof/
+        available to download/print.
+
+  conceptual mathematics: a first introduction to categories
+    - 
+
+  Simple Algebraic Data Types. Categories for Programmers by Bartosz Milewski
+    - https://www.reddit.com/comments/2saoxl
+    - https://bartoszmilewski.com/2015/01/13/simple-algebraic-data-types/
+
+  Category theory for programmers
+    https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+
+  Category Theory for Scientists
+    - http://math.mit.edu/~dspivak/teaching/sp13/CT4S.pdf
+        early edition - mostly  on web
+  
+    - A good background in proofs/set theory should suffice. I would recommend
+    "Book of Proof" by Richard Hammack as a prequel to this book. 
+
+    - i highly recommend taking a look into category theory, in particular the
+      books, 
+        - "conceptual mathematics: a first introduction to categories" and 
+        - "category theory for the sciences", 
+      in that order.
+      (eg. "book of proof" and "conceptual mathematics" are the recommended prerequisites)
+
+  Practical Foundations of Mathematics
+    http://paultaylor.eu/~pt/prafm/html/index.html
+    - more advanced - have to buy
+
+
+------------
+June 11
+
+Hmmm, opportunity cost of holding an asset, is to convert it (borrow against it, sell it etc), and 
+  invest in something that improves business.
+
+  money isn't valueable to banks it's the interest they can charge on loans 
+  
+  on that basis thedao (which is channeling funds) is more interesting than maker (price stable asset). 
+
+  blockchain contracts can be more expressive, the more resources and services are defined on the "consensus ledger"
+
+---
+
+- solitidy - coq/ functional program - if want to integrate then need more solidity experience to do this.
+- can do 50% solidity - contract basis - means can put stuff on resume.
+
+TODO 
+  - read maker updated docs
+      https://github.com/MakerDAO/docs/blob/rune_draft/Maker.md
+  - read ethereum contract abi
+      https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI
+  - read dao solidity contract
+      https://github.com/slockit/DAO/blob/master/DAO.sol
+      https://github.com/slockit/DAO/
+
+  - read linear types can change the blockchain
+      http://arxiv.org/abs/1506.01001
+
+  - math intro books
+      https://news.ycombinator.com/item?id=11874850
+        see, books above
+
+
+
+INTERESTING
+  security - chriseth
+    https://blog.ethereum.org/2016/06/10/smart-contract-security/
+    https://www.reddit.com/r/ethereum/comments/4nh1vx/new_ethereum_blog_post_smart_contract_security/
+
+  casper protocol workshop - video
+    https://www.reddit.com/r/ethtrader/comments/4k8ok3/casper_protocol_workshop_and_synereo_for_whom_are/
+  
+  dao github contributors
+    https://github.com/slockit/DAO/graphs/contributors
+
+  gavin wood resigns as dao curator - read
+    https://www.reddit.com/r/ethtrader/comments/4j6l4t/gavin_wood_resigns_as_a_dao_curator/
+
+  solidity original proposal - 
+    https://stackedit.io/viewer#!url=https://gist.githubusercontent.com/gavofyork/31b35cd2252a00d0d057/raw/16de06189d2175d2e31b300f1f8531e20c927635/solidity-original
+
+  is the dao doa - read
+    https://news.ycombinator.com/item?id=11771798
+    - interesting comment on contract-rollback on stack overflow 
+
+  open letter to dao - read
+    https://steemit.com/ethereum/@xeroc/open-letter-to-thedao-curators
+
+  gav wood - yellow paper committee
+    https://github.com/gavofyork/curly-engine
+
+
+
+
